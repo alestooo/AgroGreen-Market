@@ -508,10 +508,13 @@ The project is being redesigned around a cleaner modular architecture with impro
 
 ## 📄 License
 
-This project is intended for educational and portfolio purposes.
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for more information.
 
 ---
 
 ## 🌿 AgroGreen
 
 **Connecting agriculture, technology, local markets, and people.**
+
